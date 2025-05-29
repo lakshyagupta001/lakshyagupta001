@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
+
 ### 🧑‍💻 About Me
 - 🎓 Pursuing **B.E. in Computer Science** at **Lokmanya Tilak College of Engineering** (2022–2026)  
 - 🌐 Passionate about **Web Development** and solving real-world problems  
