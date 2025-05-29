@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshya Gupta</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Open Source Enthusiast</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 ---
 
 ### 🧑‍💻 About Me
@@ -96,6 +98,4 @@
 I'm always excited to contribute to impactful open-source projects and collaborate with others to build innovative solutions.  
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/lakshyagupta001), [Twitter](https://twitter.com/lakshyagupta001), or email at **glakshya01@gmail.com**.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
+
