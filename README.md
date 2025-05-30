@@ -29,14 +29,14 @@
   <a href="https://stackoverflow.com/users/30445114" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/glakshya01" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/lakshyagupta001" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/lakshyagupta001" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+   <a href="https://www.codechef.com/users/glakshya01" target="_blank">
+    <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
