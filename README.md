@@ -83,16 +83,14 @@
 
 ### 📊 GitHub & LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/lakshyagupta001?theme=dark&font=Fira+Code&ext=heatmap" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight" width="50%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyagupta001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyagupta001&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyagupta001&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/lakshyagupta001?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+</div>
 ---
 
 ### 🤝 Let's Connect!
