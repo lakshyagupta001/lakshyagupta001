@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/lakshyagupta001" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="mailto:glakshya01@gmail.com" target="_blank">
+  <a href="mailto:glakshya01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/30445114" target="_blank">
@@ -35,7 +35,7 @@
   <a href="https://auth.geeksforgeeks.org/user/lakshyagupta001" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-   <a href="https://www.codechef.com/users/glakshya01" target="_blank">
+  <a href="https://www.codechef.com/users/glakshya01" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -81,14 +81,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyagupta001&theme=tokyonight" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/lakshyagupta001?theme=dark&font=Fira+Code&ext=heatmap" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight" width="50%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyagupta001&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyagupta001&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyagupta001&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -96,5 +98,3 @@
 ### 🤝 Let's Connect!
 I'm always excited to contribute to impactful open-source projects and collaborate with others to build innovative solutions.  
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/lakshyagupta001), [Twitter](https://twitter.com/lakshyagupta001), or email at **glakshya01@gmail.com**.
-
-
