@@ -103,15 +103,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 
-  <a href="https://leetcode.com/lakshyagupta001" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="50" />
-  </a>
-
   <a href="https://stackoverflow.com/users/30445114" target="_blank">
     <img src="https://cdn.simpleicons.org/stackoverflow" height="50" />
   </a>
 
-  <a href="https://www.codechef.com/users/glakshya01" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef" height="50" />
-  </a>
 </p>
