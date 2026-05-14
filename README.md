@@ -84,8 +84,17 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyagupta001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyagupta001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
