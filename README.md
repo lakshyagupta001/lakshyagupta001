@@ -82,13 +82,36 @@
 ---
 
 ### 📊LeetCode Stats
-
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/lakshyagupta001?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </div>
+
 ---
 
 ### 🤝 Let's Connect!
-I'm always excited to contribute to impactful open-source projects and collaborate with others to build innovative solutions.  
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/lakshyagupta001), [Twitter](https://twitter.com/lakshyagupta001), or email at **glakshya01@gmail.com**.
+
+<p align="center">
+  <a href="https://linkedin.com/in/lakshyagupta001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="https://twitter.com/lakshyagupta001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+  </a>
+
+  <a href="mailto:glakshya01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+
+  <a href="https://leetcode.com/lakshyagupta001" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="50" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/30445114" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow" height="50" />
+  </a>
+
+  <a href="https://www.codechef.com/users/glakshya01" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef" height="50" />
+  </a>
+</p>
